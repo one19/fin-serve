@@ -87,6 +87,7 @@ const server = http.createServer((req, res) => {
     return;
   }
   setSecurityHeaders(res);
+  res.setHeader('Content-Type', 'text/html; charset=utf-8');
 
   if (!ASSET_PATH_RE.test(req.url)) {
     req.url = '/';
