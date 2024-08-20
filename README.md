@@ -1,7 +1,15 @@
 # FIN-SERVE
 
-[![Maintenance status](https://raw.githubusercontent.com/one19/project-status/master/cache/fin-serve/maintained.svg?sanitize=true)](https://github.com/one19/project-status) [![published on npm!](https://raw.githubusercontent.com/one19/project-status/master/cache/fin-serve/npm.svg?sanitize=true)](https://www.npmjs.com/package/fin-serve)
+[![published on npm!](https://raw.githubusercontent.com/one19/project-status/master/cache/fin-serve/npm.svg?sanitize=true)](https://www.npmjs.com/package/fin-serve)
 ---
+
+# FIN SERVE IS DEPRECATED
+It had a very good run, and got much further than it had any right to. It is time it was put to rest. Please do not use this. There are a **zillion** other solutions out there that weren't made by a junior at the beginning of his career and pushed well beyond their means.
+
+It will no longer be receiving patches. Thank you for all the downloads.
+
+
+# OLD README
 
 ### Purpose:
 
